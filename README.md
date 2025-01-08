@@ -25,6 +25,6 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
     - `subread`
     - Python version 3 or later
 
-## How to cite these scripts?
+## Citing
 If you use the scripts, please cite; To be submitted.  
 We recommend also citing software packages discribed at "Requirments".
