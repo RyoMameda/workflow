@@ -9,4 +9,22 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
 - 06 Annotation of predicted protein sequences
 - 07 Quantification process
 
-##
+## Requierments
+- Miniconda or Homebrew is required to install following software packages;
+    - `pigz`
+    - `sratools`
+    - `fastp`
+    - `megahit`
+    - `seqkit`
+    - `prodigal`
+    - `bwa`
+    - `samtools`
+    - `blast`
+    - `diamond`
+    - `hmmer`
+    - `subread`
+    - Python version 3 or later
+
+## How to cite these scripts?
+If you use the scripts, please cite; To be submitted.
+We recommend also citing software packages discribed at "Requirments".
