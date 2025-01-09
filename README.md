@@ -28,4 +28,4 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
 
 ## Citing
 If you use the scripts, please cite; To be submitted.  
-We recommend also citing software packages listed at "Requirments".
+We recommend also citing software packages listed at `Requirments`.
