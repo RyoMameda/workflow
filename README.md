@@ -9,7 +9,7 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
 - 06 Annotation of predicted protein sequences
 - 07 Quantification process
 
-## Requierments
+## Requirements
 - Miniconda or Homebrew is required to install following software packages;
     - `pigz`
     - `sratools`
@@ -28,4 +28,4 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
 
 ## Citing
 If you use the scripts, please cite; To be submitted.  
-We recommend also citing software packages listed at `Requirments`.
+We recommend also citing software packages listed at `Requirements`.
