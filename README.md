@@ -6,8 +6,9 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
 - 03 Construction and quality assessment of metagenomic contigs
 - 04 Prediction of protein-coding sequences
 - 05 Mapping reads to metagenomic contigs and evaluation of mapping results
-- 06 Annotation of predicted protein sequences
-- 07 Quantification process
+- 06 Retrieval of reference datasets from public databases
+- 07 Annotation of predicted protein sequences
+- 08 Quantification process
 
 ## Requirements
 - Miniconda or Homebrew is required to install following software packages;
