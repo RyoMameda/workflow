@@ -23,6 +23,7 @@ This workflow focuses on data-driven gene expression analysis in complex microbi
     - `diamond`
     - `hmmer`
     - `subread`
+    - `parallel`
     - Python version 3 or later
 
 ## Citing
