@@ -37,4 +37,4 @@ time parallel 07_1_hmmscan.sh ${f}-rRNA-uniprot.faa.split/${f}-rRNA-uniprot.part
 cat ${f}-rRNA-uniprot_pfam*.txt | grep "#" -v > ${f}-rRNA-uniprot_pfam.txt
 
 # concatenation annotation information into gtf formated file
-07_2_faablastpfam2gtf4tpm.py --faa ${f}.faa --rrna ${f}_rRNAlist.txt --uniprot ${f}-rRNA_uniprot.txt --pfam ${f}-rRNA-uniprot_pfam.txt -o ${f}_annotation.gtf
+07_2_faablastpfam2gtf.py --faa ${f}.faa --rrna ${f}_rRNAlist.txt --uniprot ${f}-rRNA_uniprot.txt --pfam ${f}-rRNA-uniprot_pfam.txt -o ${f}_annotation.gtf
