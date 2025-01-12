@@ -3,7 +3,7 @@
 
 threads=10
 
-mkdir raw_fq trtim_fq fastp_html
+mkdir raw_fq trim_fq fastp_html
 
 for fq in *_1.fastq.gz; do
     f=${fq%_?.fastq.gz}
